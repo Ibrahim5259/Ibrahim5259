@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim5259
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning bs react js
+- 🌱 I’m currently learning  react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
